@@ -1,4 +1,4 @@
-# EEL-5105-Circuitos-e-Tecnicas-Digitais
+# EEL5105 Circuitos e Técnicas Digitais
 
 Material sobre projetos de **CTD**.
 
